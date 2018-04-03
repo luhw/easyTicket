@@ -24,7 +24,7 @@ let deleteIdx = -1,
 * vuex的state
 */
 const state = {
-  pic_list: ['1111111'],
+  pic_list: ['66666666'],
   choosedMusic: null,
   musicList: [],
   sysPicLabels: [],

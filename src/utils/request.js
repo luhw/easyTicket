@@ -1,4 +1,4 @@
-import 'whatwg-fetch'
+// import 'whatwg-fetch'
 import qs from 'querystring'
 import isPlainObj from 'is-plain-obj'
 import { formatParams } from './tools'

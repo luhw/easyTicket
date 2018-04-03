@@ -5,6 +5,8 @@ import plugins from './plugins'
 
 Vue.use(Vuex)
 
+console.log('modules=========', modules)
+
 const store = new Vuex.Store({
   strict: false,
   modules,

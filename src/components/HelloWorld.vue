@@ -15,8 +15,7 @@
       </li>
       <li>
         <a
-          href="https://forum.vuejs.org"
-          target="_blank"
+          href="#/home"
         >
           Forum
         </a>
